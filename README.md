@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Atharva Pathak
 
-<!--
-**athaxva/athaxva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Projects
+- TRUTHLENS.AI – Deepfake detection Android app
+- Hidden Prompt Injection Detector – Chrome extension research
+- MD5 SSH File Integrity Checker
 
-Here are some ideas to get you started:
+### 💻 Tech Stack
+Python • Flutter • FastAPI • TensorFlow Lite • Docker • PostgreSQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔬 Research
+- Hidden Prompt Injection Detection
+- Deepfake Detection
+
+### 🌐 Website
+https://atharvapathak.in
+
+### 📫 Contact
+atharva@atharvapathak.in
