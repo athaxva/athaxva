@@ -36,6 +36,9 @@ Python security tool for verifying SSH file integrity.
 ---
 ![GitHub Streak](https://streak-stats.demolab.com?user=athaxva&theme=dark)
 
+---
+![snake gif](https://github.com/athaxva/athaxva/blob/main/dist/github-contribution-grid-snake.svg)
+
 
 ---
 ## 🌐 Website
