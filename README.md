@@ -34,7 +34,10 @@ Python security tool for verifying SSH file integrity.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+![GitHub Streak](https://streak-stats.demolab.com?user=athaxva&theme=dark)
 
+
+---
 ## 🌐 Website
 
 https://atharvapathak.in
